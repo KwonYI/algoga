@@ -35,8 +35,9 @@
 ### ERD
 ![image](https://user-images.githubusercontent.com/68232654/119595178-1a059c80-be18-11eb-8202-5f4d6675040f.png)
 ### API Table
-![image](https://user-images.githubusercontent.com/68232654/119595156-11ad6180-be18-11eb-9cd9-336ad6dd9953.png)
-![image](https://user-images.githubusercontent.com/68232654/119595639-d2334500-be18-11eb-94f4-6567113d3c81.png)
+![image](https://user-images.githubusercontent.com/68232654/119596190-ad8b9d00-be19-11eb-9960-3b32c42486ae.png)
+![image](https://user-images.githubusercontent.com/68232654/119596269-ce53f280-be19-11eb-9e13-77f4abfa5768.png)
+
 ### 기술 스택
 ![image](https://user-images.githubusercontent.com/68232654/119595810-158db380-be19-11eb-81d8-b70d8ed77e9d.png)
 
